@@ -4,7 +4,7 @@
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+Celebrate [Hacktoberfest] (https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
@@ -22,7 +22,7 @@ Here are 3 quick and painless ways to contribute to this project:
 * Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Choose one or all three, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
